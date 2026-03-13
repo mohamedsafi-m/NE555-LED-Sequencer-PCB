@@ -41,4 +41,3 @@ LED arrays are arranged on both sides of the PCB to create a visual sequencing p
 3. Generate Gerber files
 4. Send them to a PCB manufacturer
 5. Assemble the components
-6. 
